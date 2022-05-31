@@ -1,4 +1,4 @@
-# Placa Mãe
+# Placa Mãe 🧠
 
 Saber como escolher placa-mãe para PC é fundamental na hora de montar o seu PC. Essa peça é fundamental para a boa harmonia entre os componentes, já que é ela que interliga processador, memória RAM, placa de vídeo e armazenamento. Dentre as principais características a serem verificadas antes de comprar uma placa-mãe, é importante pesquisar sobre os soquetes e chipsets e suas dimensões.
 

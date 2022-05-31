@@ -1,4 +1,4 @@
-# Placa de vídeo
+# Placa de vídeo 🕹️
 
 A placa de vídeo é um dos componentes mais importantes em um PC ou notebook, principalmente para gamers e profissionais do audiovisual. A peça é responsável pela qualidade das imagens e dos gráficos gerados pelo computador, e costuma ser um dos mais caros na hora de montar uma máquina.
 

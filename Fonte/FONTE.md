@@ -1,4 +1,4 @@
-# Fonte
+# Fonte ⚡
 
 Muitas pessoas deixam de investir uma boa parte do orçamento para focar em outras peças, como processador e placa de vídeo, porém, isto é um erro, pois uma fonte de má qualidade pode diminuir a performance do seu computador, e no pior dos casos, estragar seu computador por completo.
 

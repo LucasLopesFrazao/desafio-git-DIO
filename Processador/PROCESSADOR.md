@@ -1,4 +1,4 @@
-# Processador
+# Processador 👨‍💻
 
 Entre os diversos componentes importantes para serem avaliados antes de comprar um computador ou aprimorá-lo, o processador é um dos que mais deve ter sua atenção, já que ele é o responsável por melhorar o desempenho. Assim, além de considerar para que fins você deseja utilizar o PC, vale a pena mensurar até quanto você quer gastar, já que esses chips podem alcançar preços relativamente salgados.
 

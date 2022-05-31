@@ -1,4 +1,4 @@
-# HDD e/ou SSD
+# HDD e/ou SSD 💾
 
 O **armazenamento** faz toda a diferença na hora de escolher um novo notebook ou melhorar o desempenho de um notebook antigo. Comprar um **SSD** é uma ótima alternativa para deixar mais rápido um computador que possui apenas um HD tradicional.
 
